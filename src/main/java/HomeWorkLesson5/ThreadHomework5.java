@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ThreadHomework5 {
     public static void main(String[] args) {
-        int size = 10;
+        int size = 20;
         float[] a1 =  firstMethod(size);
         float[] a2 = secondMethod(size);
         splitAndMergeExample(a1, a2, size);
